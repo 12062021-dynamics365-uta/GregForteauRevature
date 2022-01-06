@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ProjO1Test\ProjO1Test\obj\Debug\net5.0\ProjO1Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjO1Test\ProjO1Test\obj\Debug\net5.0\ProjO1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProjO1Test\ProjO1Test\obj\Debug\net5.0\ProjO1Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProjO1Test\ProjO1Test\obj\Debug\net5.0\ProjO1Test.AssemblyInfo.cs
+C:\Users\User\source\repos\ProjO1Test\ProjO1Test\obj\Debug\net5.0\ProjO1Test.csproj.CoreCompileInputs.cache
