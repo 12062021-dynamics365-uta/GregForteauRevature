@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.exe
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.deps.json
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.runtimeconfig.json
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.runtimeconfig.dev.json
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.dll
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\bin\Debug\net5.0\ref\SweetNSalty.dll
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\bin\Debug\net5.0\SweetNSalty.pdb
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.AssemblyInfo.cs
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.dll
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\ref\SweetNSalty.dll
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.pdb
+C:\Users\User\source\repos\SweetNSalty\SweetNSalty\obj\Debug\net5.0\SweetNSalty.genruntimeconfig.cache
